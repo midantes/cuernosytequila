@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-id="toros.es" tvg-name="ES: MUNDOTORO TV FHD" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="ES 1 MUNDOTORO PPV",ES: MUNDOTORO TV FHD
 http://95661660159441850.ofio.xyz:80/play/mm08108/8798764/441850.ts
 #EXTINF:-1 tvg-id="toros.es" tvg-name="M+ TOROS HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png" group-title="ES 1 MUNDOTORO PPV",M+ TOROS HD 1080P
@@ -32,7 +31,7 @@ http://45689345057321305.stonehuge.xyz:80/play/ha09093/5471614913/321305.ts
 http://45689345057321306.stonehuge.xyz:80/play/ha09093/5471614913/321306.ts
 #EXTINF:-1,ES: M+ ACCION SD
 http://45689345057321307.stonehuge.xyz:80/play/ha09093/5471614913/321307.ts
-#EXTINF:-1,ES: M+ ACCIÂ©N HD
+#EXTINF:-1,ES: M+ ACCION HD
 http://45689345057321308.stonehuge.xyz:80/play/ha09093/5471614913/321308.ts
 #EXTINF:-1,ES: M+ ESTRENOS 2 FHD
 http://45689345057321334.stonehuge.xyz:80/play/ha09093/5471614913/321334.ts
